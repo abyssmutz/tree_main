@@ -1,1 +1,1 @@
-null
+It doesnt make sense
